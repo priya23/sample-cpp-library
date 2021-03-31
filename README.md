@@ -1,1 +1,1 @@
-# sample-cpp-library
+# this is a sample repo containing very basic cpp library to print a string 
